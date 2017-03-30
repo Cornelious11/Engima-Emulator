@@ -1,0 +1,6 @@
+c:\users\south\documents\visual studio 2017\Projects\Enigma_Emulator\Enigma_Emulator\bin\Debug\Enigma_Emulator.exe.config
+c:\users\south\documents\visual studio 2017\Projects\Enigma_Emulator\Enigma_Emulator\bin\Debug\Enigma_Emulator.exe
+c:\users\south\documents\visual studio 2017\Projects\Enigma_Emulator\Enigma_Emulator\bin\Debug\Enigma_Emulator.pdb
+c:\users\south\documents\visual studio 2017\Projects\Enigma_Emulator\Enigma_Emulator\obj\Debug\Enigma_Emulator.csprojResolveAssemblyReference.cache
+c:\users\south\documents\visual studio 2017\Projects\Enigma_Emulator\Enigma_Emulator\obj\Debug\Enigma_Emulator.exe
+c:\users\south\documents\visual studio 2017\Projects\Enigma_Emulator\Enigma_Emulator\obj\Debug\Enigma_Emulator.pdb
